@@ -9,7 +9,7 @@ packages = [{include = "teamsite_zoom"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-Django = "^4.0.0"
+Django = "^4.2.7"
 dateutils = "^0.6.0"
 xlsxwriter = {version = "^3.0.0", optional = true}
 djangorestframework = {version = "^3.14.0", optional = true}
